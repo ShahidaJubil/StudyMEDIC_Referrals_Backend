@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d196cafc.css",
+    "main.js": "/static/js/main.258e4fa1.js",
+    "static/js/787.3aa714d8.chunk.js": "/static/js/787.3aa714d8.chunk.js",
+    "static/media/BG-video.mp4": "/static/media/BG-video.e522234d8ae1910640b6.mp4",
+    "static/media/forgot.png": "/static/media/forgot.fb9cf5a186f3d0127393.png",
+    "static/media/referHome.jpg": "/static/media/referHome.eaaa163f13b22434eab9.jpg",
+    "static/media/studymedic-logo--header-100k.png": "/static/media/studymedic-logo--header-100k.8454e6c4735727d620ca.png",
+    "static/media/doctor.png": "/static/media/doctor.d83ad5e5f2443a97b29e.png",
+    "static/media/rewards.png": "/static/media/rewards.f0f413c0a4c515a9b0f8.png",
+    "static/media/logo.png": "/static/media/logo.9163366450027422c03a.png",
+    "index.html": "/index.html",
+    "main.d196cafc.css.map": "/static/css/main.d196cafc.css.map",
+    "main.258e4fa1.js.map": "/static/js/main.258e4fa1.js.map",
+    "787.3aa714d8.chunk.js.map": "/static/js/787.3aa714d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d196cafc.css",
+    "static/js/main.258e4fa1.js"
+  ]
+}
